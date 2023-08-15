@@ -26,7 +26,7 @@ PRODUCT_COPY_FILES += \
     vendor/lge/v20-common/proprietary/vendor/lib64/lib_fpc_tac_shared.so:$(TARGET_COPY_OUT_VENDOR)/lib64/lib_fpc_tac_shared.so \
     vendor/lge/v20-common/proprietary/vendor/lib64/libfpfactory.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libfpfactory.so \
     vendor/lge/v20-common/proprietary/vendor/lib64/libfpfactory_jni.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libfpfactory_jni.so \
-    vendor/lge/v20-common/proprietary/vendor/firmware/BCM4358A3.hcd:$(TARGET_COPY_OUT_VENDOR)/firmware/BCM43xx.hcd \
+    vendor/lge/v20-common/proprietary/vendor/firmware/BCM4358A3_001.004.015.0095.0168_KR_ORC.HCD:$(TARGET_COPY_OUT_VENDOR)/firmware/BCM43xx.hcd \
     vendor/lge/v20-common/proprietary/vendor/firmware/bu24234_dl_program_Alice_LGITAct_ICG1020S_rev13_S_data1_0x4E.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/bu24234_dl_program_Alice_LGITAct_ICG1020S_rev13_S_data1_0x4E.bin \
     vendor/lge/v20-common/proprietary/vendor/firmware/bu24234_dl_program_Alice_LGITAct_ICG1020S_rev13_S_data2_0x4E.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/bu24234_dl_program_Alice_LGITAct_ICG1020S_rev13_S_data2_0x4E.bin \
     vendor/lge/v20-common/proprietary/vendor/firmware/bu24234_dl_program_Alice_LGITAct_ICG1020S_rev14_S_data1.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/bu24234_dl_program_Alice_LGITAct_ICG1020S_rev14_S_data1.bin \
